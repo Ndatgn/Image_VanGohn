@@ -1,0 +1,5 @@
+{
+  "name": "Van Gogh Studio AI",
+  "description": "A React adaptation of the Van Gogh Stroke Studio, utilizing the Gemini API to transform photos into post-impressionist masterpieces with thick impasto strokes and vibrant colors.",
+  "requestFramePermissions": []
+}
